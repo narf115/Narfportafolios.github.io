@@ -1,0 +1,36 @@
+.Contacto-ordenador{
+    margin-left: 30%;
+    margin-top: 30px;
+    margin-bottom: 30%;
+    margin-right: 40%;
+    border: 0.05px solid black ;
+    padding: 0.1%;
+    }
+    
+    .Contacto-ordenador .boton{
+        cursor: pointer;
+    }
+    .Contacto-ordenador a{
+        margin-top: 30px;
+        color: black;
+    
+    }
+
+/*  CONTACTO MOVIL  */
+
+.Contacto-Movil{
+    margin-left: 10%;
+    margin-top: 30px;
+    margin-bottom: 30%;
+    margin-right: 10%;
+   align-self: center;
+    padding: 0.1%;
+
+}
+.Contacto-Movil .boton{
+    cursor: pointer;
+}
+.Contacto-Movil a{
+    margin-top: 30px;
+    color: black;
+}
