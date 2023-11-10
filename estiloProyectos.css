@@ -54,4 +54,8 @@ display: flex;
    }
    .Tabla-Movil .file .columna:last-of-type .contenido, .Tabla-Movil .file .columna:last-of-type .header{
     border-bottom: 5px solid black;
+   }@media(max-width:760px)
+   {
+       .Tabla-Movil{display: block;}
+      .Tabla-ordenador{display: none;}
    }
